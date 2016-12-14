@@ -1,6 +1,6 @@
 ---
 category: classicos
-title: 'Platão'
+title: 'Aristófanes (2014)'
 
 
 layout: nil
