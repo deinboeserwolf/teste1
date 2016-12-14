@@ -1,7 +1,7 @@
 ---
 category: classicos
 path: '/classicos/:id'
-title: 'Delete a thing'
+title: 'Platão'
 type: 'Classicos'
 
 layout: nil
