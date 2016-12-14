@@ -1,6 +1,5 @@
 ---
 category: classicos
-path: '/classicos/:id'
 title: 'Platão'
 type: 'Classicos'
 
