@@ -1,10 +1,11 @@
-+---
-+category: grego
-+title: 'alfa (????)'
+---
+category: classicos
+title: 'alfa'
 
-+layout: nil
-+---
+
+layout: nil
+---
 
 ## alfa (kapa). teste.
 
-+Palavras-chave: grego. alfa.
+Palavras-chave: grego. alfa.
